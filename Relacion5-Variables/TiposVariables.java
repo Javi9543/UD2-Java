@@ -43,6 +43,6 @@ public class TiposVariables {
         boolean ultimo = false;
 
         /* variable tipo cadena de caracteres */
-        String nombre = "Javilillo";
+        String nombre = "Javi";
     }
 }

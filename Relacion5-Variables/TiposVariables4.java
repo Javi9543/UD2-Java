@@ -1,6 +1,6 @@
 public class TiposVariables4 {
     public static void main(String[] args) {
-        /*Definicion de variables*/
+        /*Definicion variables*/
         int x = 1;
         int y = 1;
         double n = 2;

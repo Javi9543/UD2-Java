@@ -19,7 +19,7 @@ public class TiposVariables2 {
         /*numero de hijos*/
         int  numeroDeHijos = 2;
 
-        /*iva*/
+        /*Iva*/
         double iva = 0.21;
 
         /*tallaCamisa(valores numericos)*/

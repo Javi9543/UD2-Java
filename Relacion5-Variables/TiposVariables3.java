@@ -1,7 +1,7 @@
 /*Ejercicio 3 Convierte en expresiones algorítmicas con Java las siguientes expresiones algebraicas. Coloca
 paréntesis solamente donde sean necesarios.
 
-1º DAW | Javier Muñoz Parra */
+1ºDAW | Javier Muñoz Parra */
 
 public class TiposVariables3{
     public static void main ( String args[]){
