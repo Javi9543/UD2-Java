@@ -20,7 +20,7 @@ public class EJercicio3Relación6 {
         System.out.println("Introduzca un caracter");
         caracter = entrada.nextLine();
 
-        /* Validar caracter */    
+          
             for (int i = 0; i < cadena.length(); i++) {
                 porcion = cadena.substring(i, i+1);
                 if (porcion.equals(caracter)){
