@@ -1,0 +1,9 @@
+public class Vivienda {
+   
+   //atributos
+   String tipoVivienda;
+   String propietario
+   float precio
+   boolean enAlquiler
+   boolean enVenta
+}

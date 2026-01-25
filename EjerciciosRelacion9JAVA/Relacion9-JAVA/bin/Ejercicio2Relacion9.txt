@@ -1,0 +1,9 @@
+public class Equipos{}
+
+public class puntos{}
+
+public class posicion{}
+
+public class arbitros{}
+
+public class estasdisticas{}
